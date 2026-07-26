@@ -3,6 +3,7 @@
 A lightweight, voice-activated application that runs completely offline, and forcefully closes Discord when you say a custom trigger phrase. 
 
 100% Offline Privacy: Uses Vosk to process your voice locally. No audio is ever sent to the cloud.
+
 Fuzzy Matching: Understands you even if you stutter or say extra words around your trigger phrase.
 
 ## How to Use the EXE
