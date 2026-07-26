@@ -1,0 +1,14 @@
+# Ignore the AI Model (users must download it themselves)
+model/
+
+# Ignore compiled EXEs and build folders
+build/
+dist/
+*.spec
+*.exe
+
+# Ignore personal saved phrases
+phrases.txt
+
+# Ignore Python cache
+__pycache__/
